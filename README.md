@@ -68,5 +68,5 @@ This program helps in understanding how much memory is allocated for different d
 
 
 
-![Image 12-08-24 at 3 49 PM](https://github.com/user-attachments/assets/a4efcd0f-3b24-412f-8264-91347d8b2f5b)
+
 
